@@ -1,0 +1,47 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>public icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-cy2ywRIt">
+			<stop offset="0" stop-color="#6000ff"/>
+			<stop offset="0.17" stop-color="#6000ff"/>
+			<stop offset="0.17" stop-color="#5748f0"/>
+			<stop offset="0.33" stop-color="#5748f0"/>
+			<stop offset="0.33" stop-color="#4d68e0"/>
+			<stop offset="0.5" stop-color="#4d68e0"/>
+			<stop offset="0.5" stop-color="#4282d1"/>
+			<stop offset="0.67" stop-color="#4282d1"/>
+			<stop offset="0.67" stop-color="#3699c1"/>
+			<stop offset="0.83" stop-color="#3699c1"/>
+			<stop offset="0.83" stop-color="#27aeb0"/>
+			<stop offset="1" stop-color="#27aeb0"/>
+		</linearGradient>
+		<linearGradient x1="368.94" y1="368.94" x2="1542.36" y2="1542.36" id="color-n5Oa7jY8" gradientUnits="userSpaceOnUse">
+			<stop offset="0.06" stop-color="#ffffff"/>
+			<stop offset="0.56" stop-color="#000000"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-q2IGIsNT">
+			<stop offset="0" stop-color="#000077"/>
+			<stop offset="0.17" stop-color="#000077"/>
+			<stop offset="0.17" stop-color="#000083"/>
+			<stop offset="0.33" stop-color="#000083"/>
+			<stop offset="0.33" stop-color="#000077"/>
+			<stop offset="0.5" stop-color="#000077"/>
+			<stop offset="0.5" stop-color="#001a68"/>
+			<stop offset="0.67" stop-color="#001a68"/>
+			<stop offset="0.67" stop-color="#003057"/>
+			<stop offset="0.83" stop-color="#003057"/>
+			<stop offset="0.83" stop-color="#004343"/>
+			<stop offset="1" stop-color="#004343"/>
+		</linearGradient>
+		<mask id="mask-Sqk3Y4ab">
+			<rect fill="url(#color-n5Oa7jY8)" x="273.07" y="290.69" width="750.93" height="733.31"/>
+		</mask>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-cy2ywRIt)"/>
+		<g fill="url(#color-q2IGIsNT)">
+			<path d="M342.91,680.75c-43.17,-43.17 -69.84,-102.81 -69.84,-168.75c0,-18.51 2.39,-36.13 6.27,-53.46l334.35,334.35c14.26,-5.17 28.01,-11.39 41.16,-18.57l-262.32,-262.32v-59.73h59.74c16.43,0 29.86,-13.44 29.86,-29.87v-59.73h59.74c32.85,0 59.73,-26.89 59.73,-59.74v-12.24c29.95,12.16 56.89,30.21 79.38,52.69l126.78,126.78c-9.22,-65.7 -39.85,-124.57 -84.6,-169.32l300.84,300.84v224.07c0,109.49 -88.76,198.25 -198.25,198.25h-224.07l-300.84,-300.84c44.68,44.68 103.45,75.29 169.04,84.56z" mask="url(#mask-Sqk3Y4ab)"/>
+		</g>
+		<path d="M810.67,512c0,164.86 -133.8,298.67 -298.67,298.67c-164.86,0 -298.67,-133.8 -298.67,-298.67c0,-164.86 133.8,-298.67 298.67,-298.67c164.86,0 298.67,133.8 298.67,298.67zM750.93,512c0,-100.05 -61.82,-185.77 -149.33,-221.31v12.24c0,32.85 -26.88,59.74 -59.73,59.74h-59.74v59.73c0,16.43 -13.43,29.87 -29.86,29.87h-59.74v59.73h179.2c16.43,0 29.87,13.44 29.87,29.87v89.6h29.87c26.88,0 48.98,17.32 56.74,41.51c38.83,-42.41 62.72,-98.85 62.72,-160.98zM482.13,691.2c-32.85,0 -59.73,-26.88 -59.73,-59.73v-29.87l-143.06,-143.06c-3.88,17.32 -6.27,34.94 -6.27,53.46c0,121.86 91.09,222.21 209.06,236.85z" fill="#ffffff"/>
+	</g>
+</svg>
